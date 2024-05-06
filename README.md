@@ -1,4 +1,8 @@
 # SuperCLUE-Fin
-中文金融大模型测评基准，六大类二十五任务、等级化评价，国内模型获得A级
+中文原生金融大模型测评基准
 
-【2024-04-24】内容快速更新中。。。。
+<a href='https://mp.weixin.qq.com/s/emW_g5A8DKTFojvWFnsrqQ'>中文金融大模型测评基准，六大类二十五任务、等级化评价，国内模型获得A级</a><br/>
+
+<a href='https://arxiv.org/abs/2404.19063'>SuperCLUE-Fin: Graded Fine-Grained Analysis of Chinese LLMs on Diverse Financial Tasks and Applications</a>
+
+ 
